@@ -1,0 +1,2 @@
+ui_ux.psd filter=lfs diff=lfs merge=lfs -text
+main_title.psd filter=lfs diff=lfs merge=lfs -text
