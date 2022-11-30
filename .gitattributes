@@ -1,2 +1,2 @@
-'Extra files/concept 2.psd' filter=lfs diff=lfs merge=lfs -text
+'Extra files/concept2.psd' filter=lfs diff=lfs merge=lfs -text
 Content/SMART-ArchVizPack01/Textures/T_Sofa01_N_Mat01.uasset filter=lfs diff=lfs merge=lfs -text
