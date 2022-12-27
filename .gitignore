@@ -13,3 +13,6 @@ Saved
 *.xcodeproj
 *.xcworkspace
 *_BuiltData.uasset
+*.mp4
+*.m4v
+Content\ArchvizSae\Materials\HDRI\hdri-1.uasset
